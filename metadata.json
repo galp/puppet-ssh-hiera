@@ -6,5 +6,5 @@
     "summary": "puppet module to manage ssh with a hiera backend",
     "source": "https://github.com/credativ/puppet-ssh-hiera",
     "project_page": "https://github.com/credativ/puppet-ssh-hiera",
-    "dependencies": [ { "name": "credativ/example42lib", "version_requirement": ">= 2.x" }]
+    
 }
